@@ -1,2 +1,2 @@
-# RIDnet
+# LRDnet
 Real Image Dehazing
